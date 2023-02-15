@@ -1,0 +1,19 @@
+{
+  "name": "product-preview-card-component",
+  "version": "1.0.0",
+  "source": "index.html",
+  "browserslist": ">0.5%, last 2 versions, not dead",
+  "description": "![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3",
+    "sass": "^1.58.1"
+  }
+}
